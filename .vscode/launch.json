@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BINARYsearch",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.BINARYsearch",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "ceiling",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.ceiling",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "findfloor",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.findfloor",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "findsmallestletter",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.findsmallestletter",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "findthescope",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.findthescope",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "infinityarray",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.infinityarray",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "mountainarray",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.mountainarray",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "rotatedsearch",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.rotatedsearch",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "evendigquestion",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.evendigquestion",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "findminium",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.findminium",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "findrange",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.findrange",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "search",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.search",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "search2Darray",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.search2Darray",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "searchstring",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Linear_search.searchstring",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "Reverseaarry",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.Reverseaarry",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "arraylistexample",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.arraylistexample",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "maximum",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.maximum",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "muiltarraylist",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.muiltarraylist",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "swaparraylist",
+            "request": "launch",
+            "mainClass": "ARRAYS.ARRAYLIST.swaparraylist",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "ARRAYS.Input",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "star",
+            "request": "launch",
+            "mainClass": "ARRAYS.PATTERNPRINTING.star",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "ARRAYS.array",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "colnotfixed",
+            "request": "launch",
+            "mainClass": "ARRAYS.colnotfixed",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "multidimentional",
+            "request": "launch",
+            "mainClass": "ARRAYS.multidimentional",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "passinginfuntion",
+            "request": "launch",
+            "mainClass": "ARRAYS.passinginfuntion",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "changevalue",
+            "request": "launch",
+            "mainClass": "changevalue",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "functionoverloading",
+            "request": "launch",
+            "mainClass": "functionoverloading",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "primeusingvarargu",
+            "request": "launch",
+            "mainClass": "questions.primeusingvarargu",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "runningsum",
+            "request": "launch",
+            "mainClass": "questions.runningsum",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "reverseastring",
+            "request": "launch",
+            "mainClass": "reverseastring",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "scoping",
+            "request": "launch",
+            "mainClass": "scoping",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "shadowing",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "stringexample",
+            "request": "launch",
+            "mainClass": "stringexample",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "summethod",
+            "request": "launch",
+            "mainClass": "summethod",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "sumoftwo",
+            "request": "launch",
+            "mainClass": "sumoftwo",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
+            "name": "varagrument",
+            "request": "launch",
+            "mainClass": "varagrument",
+            "projectName": "my java interview-kunal_35b92053"
+        }
+    ]
+}

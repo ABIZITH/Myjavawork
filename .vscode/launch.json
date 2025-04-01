@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "BubbleSorting.bubblesort",
+            "projectName": "my java interview-kunal_35b92053"
+        },
+        {
+            "type": "java",
             "name": "Binary_in2D",
             "request": "launch",
             "mainClass": "ARRAYS.ARRAYLIST.Binary_SEARCH.Binart_search_in2Darray.Binary_in2D",
